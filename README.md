@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Application Developer
 ----------------------------
 
-I'm Mobile Application Development With Flutter Framwork.
+I'm Mobile Application Developer With Flutter Framwork.
 
 * 🌍  I'm based in Palestine
 * 🖥️  See my portfolio at [My Portfolio](http://drive.google.com/drive/folders/1I_MPXd6cV_mPUMdljoDY9xK66lU9XE5o?usp=sharing)
 * ✉️  You can contact me at [moazyaseen2222@gmail.com](mailto:moazyaseen2222@gmail.com)
-* 🚀  I'm currently working on [My App](http://soon)
 * 🧠  I'm learning Mastring Mobile Application Development
 * 🤝  I'm open to collaborating on Flutter Projects
 * ⚡  I'm secretly Spiderman.. but don't tell anyone I
